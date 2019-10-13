@@ -1,0 +1,2 @@
+# nawao
+newtext.text
